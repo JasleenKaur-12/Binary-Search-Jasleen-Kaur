@@ -1,5 +1,5 @@
-# Binary-Search-Jasleen-Kaur
-This is bianry search program in python.
+# Binary-Search
+This is binary search program in python.
 
 def bs(arr, target):
     left, right = 0, len(arr) - 1
